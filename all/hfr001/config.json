@@ -1,5 +1,5 @@
 {
-  "exportTime": 1777230773914,
+  "exportTime": 1777231619112,
   "randomCode": "hfr001",
   "randomCodeHistory": [
     {
@@ -35,15 +35,7 @@
       "builtIn": true
     }
   ],
-  "selectedRegions": [
-    "GB",
-    "HK",
-    "JP",
-    "KR",
-    "SG",
-    "TW",
-    "US"
-  ],
+  "selectedRegions": [],
   "selectedTypes": [
     "v4",
     "v6"
@@ -72,8 +64,8 @@
   "privateFp": "random",
   "privateAllowInsecure": "1",
   "githubApiUrl": "",
-  "adaptiveApi": "https://url.v1.mk/sub?target=auto&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&url=",
-  "vlessMode": "template",
+  "adaptiveApi": "",
+  "vlessMode": "manual",
   "templateParams": {
     "uuid": "b82d86c5-08ab-4135-87cc-7247cf73cca5",
     "host": "ip.hly0312.eu.org",
