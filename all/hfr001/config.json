@@ -1,23 +1,14 @@
 {
-  "exportTime": 1777231619112,
+  "exportTime": 1777233170483,
   "randomCode": "hfr001",
-  "randomCodeHistory": [
-    {
-      "rc": "hd01",
-      "dir1": "all",
-      "dir2": "",
-      "prefix": "",
-      "repo": "ipcheck",
-      "owner": "kuby007"
-    }
-  ],
+  "randomCodeHistory": [],
   "tokenType": "fine",
   "encryptedToken": "HtEa2kVTQVzTJR1SVRjUWpHVq9WQwRjbpFjNxEFU5tmZppXbNVXbEhGRZBjdXVTexQVR4YlUwAnWxV2XtZkMMZTanRTWiNTdwEUN3sUS3IUMx8FdhB3XiVHa0l2Z",
   "sourceV4": false,
   "v4Slider": 2000,
   "sourceV6": false,
   "v6Slider": 1000,
-  "customUrl": "https://zip.cm.edu.kg/all.txt",
+  "customUrl": "",
   "channels": [
     {
       "id": 1,
@@ -65,19 +56,19 @@
   "privateAllowInsecure": "1",
   "githubApiUrl": "",
   "adaptiveApi": "",
-  "vlessMode": "manual",
+  "vlessMode": "template",
   "templateParams": {
-    "uuid": "b82d86c5-08ab-4135-87cc-7247cf73cca5",
-    "host": "ip.hly0312.eu.org",
-    "port": "443",
-    "path": "/?ed=2048",
-    "security": "tls",
+    "uuid": "9057308b-a575-4fef-b41e-5ec2983045db",
+    "host": "23.249.25.130",
+    "port": "13925",
+    "path": "/",
+    "security": "reality",
     "encryption": "none",
-    "flow": "",
-    "alpn": "h3",
-    "fp": "chrome",
+    "flow": "xtls-rprx-vision",
+    "alpn": "",
+    "fp": "firefox",
     "allowInsecure": "1",
-    "sni": "ip.hly0312.eu.org",
-    "type": "ws"
+    "sni": "www.iij.ad.jp",
+    "type": "tcp"
   }
 }
