@@ -1,0 +1,91 @@
+{
+  "exportTime": 1777230773914,
+  "randomCode": "hfr001",
+  "randomCodeHistory": [
+    {
+      "rc": "hd01",
+      "dir1": "all",
+      "dir2": "",
+      "prefix": "",
+      "repo": "ipcheck",
+      "owner": "kuby007"
+    }
+  ],
+  "tokenType": "fine",
+  "encryptedToken": "HtEa2kVTQVzTJR1SVRjUWpHVq9WQwRjbpFjNxEFU5tmZppXbNVXbEhGRZBjdXVTexQVR4YlUwAnWxV2XtZkMMZTanRTWiNTdwEUN3sUS3IUMx8FdhB3XiVHa0l2Z",
+  "sourceV4": false,
+  "v4Slider": 2000,
+  "sourceV6": false,
+  "v6Slider": 1000,
+  "customUrl": "https://zip.cm.edu.kg/all.txt",
+  "channels": [
+    {
+      "id": 1,
+      "name": "电信宽带",
+      "builtIn": true
+    },
+    {
+      "id": 2,
+      "name": "移动宽带",
+      "builtIn": true
+    },
+    {
+      "id": 3,
+      "name": "电信5G",
+      "builtIn": true
+    }
+  ],
+  "selectedRegions": [
+    "GB",
+    "HK",
+    "JP",
+    "KR",
+    "SG",
+    "TW",
+    "US"
+  ],
+  "selectedTypes": [
+    "v4",
+    "v6"
+  ],
+  "selectedPorts": [],
+  "latencyThreshold": 300,
+  "exportFormat": "{ip}#{idx}-{type}-{port}-{colo}-{latency}ms",
+  "exportLimit": 10,
+  "app_theme": "light",
+  "gh_owner": "kuby007",
+  "gh_repo": "ipcheck",
+  "gh_dir": "ip/",
+  "gh_branch": "main",
+  "gh_auto_repo": true,
+  "privateDir1": "all",
+  "privateDir2": "",
+  "privateFilePrefix": "",
+  "privateUuid": "b82d86c5-08ab-4135-87cc-7247cf73cca5",
+  "privateDomain": "ip.hly0312.eu.org",
+  "privatePath": "/?ed=2048",
+  "privateSecurity": "none",
+  "privateType": "ws",
+  "privateEncryption": "none",
+  "privateFlow": "",
+  "privateAlpn": "",
+  "privateFp": "random",
+  "privateAllowInsecure": "1",
+  "githubApiUrl": "",
+  "adaptiveApi": "https://url.v1.mk/sub?target=auto&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&url=",
+  "vlessMode": "template",
+  "templateParams": {
+    "uuid": "b82d86c5-08ab-4135-87cc-7247cf73cca5",
+    "host": "ip.hly0312.eu.org",
+    "port": "443",
+    "path": "/?ed=2048",
+    "security": "tls",
+    "encryption": "none",
+    "flow": "",
+    "alpn": "h3",
+    "fp": "chrome",
+    "allowInsecure": "1",
+    "sni": "ip.hly0312.eu.org",
+    "type": "ws"
+  }
+}
